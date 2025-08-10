@@ -19,7 +19,7 @@ const builder = new addonBuilder(manifest)
 function formatTitle({ name, service, audio, flags }) {
   const line1 = name
   const line2 = `🎫 ${service}`
-  const line3 = `${audio} ${flags.map(f => "/" + f).join(" ")}`
+  const line3 = `${audio} ${flags.map(f => "/ " + f).join(" ")}`
   return `${line1}\n${line2}\n${line3}`
 }
 
@@ -48,6 +48,20 @@ const streams = {
         service: "𝘏𝘪𝘨𝘩 𝘚𝘱𝘦𝘦𝘥",
         audio: "Audio",
         flags: ["🇧🇷"]
+      }),
+      url: "https://pixeldrain.com/api/file/S341Foj5"
+    }
+    ],
+
+  // Robô Selvagem
+  "tt29623480": [
+    {
+      name: "FlyStream 1080P",
+      title: formatTitle({
+        name: "Robô Selvagem (2024) [Dual]",
+        service: "𝘏𝘪𝘨𝘩 𝘚𝘱𝘦𝘦𝘥",
+        audio: "Dual Audio",
+        flags: ["🇧🇷","🇺🇸"]
       }),
       url: "https://pixeldrain.com/api/file/S341Foj5"
     }
