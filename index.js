@@ -4,7 +4,7 @@ const manifest = {
   id: "FlyStream.org",
   version: "1.0.0",
   name: "FlyStream",
-  description: "Um addon que fornece filmes e series, dublados com uma incrivel qualidade, sem travar.",
+  description: "Filmes e séries com carregamento rápido, sem travamentos e com excelente qualidade de imagem e áudio. Experiência fluida para você assistir sem interrupções.",
   logo: "https://i.imgur.com/YBExiFl.png",
   background: "https://i.imgur.com/hLl93U4.jpeg",
   resources: ["stream"],
@@ -18,7 +18,7 @@ const builder = new addonBuilder(manifest)
 // Função para formatar o título em 3 linhas
 function formatTitle({ name, service, audio, flags }) {
   const line1 = name
-  const line2 = `🎫 ${service}`
+  const line2 = `🌊 ${service}`
   const line3 = `${audio} ${flags.map(f => "/ " + f).join(" ")}`
   return `${line1}\n${line2}\n${line3}`
 }
@@ -63,7 +63,7 @@ const streams = {
         audio: "Dual Audio",
         flags: ["🇧🇷","🇺🇸"]
       }),
-      url: "https://pixeldrain.com/api/file/S341Foj5"
+      url: "https://pixeldrain.com/api/file/nKoh96i3"
     }
     ],
 }
