@@ -66,6 +66,20 @@ const streams = {
       url: "https://pixeldrain.com/api/file/nKoh96i3"
     }
     ],
+
+    // Homem Aranha: Sem volta para casa
+  "tt10872600": [
+    {
+      name: "FlyStream 1080P",
+      title: formatTitle({
+        name: "Homem Aranha: Sem Volta Para Casa (2021) [Dublado]",
+        service: "𝘏𝘪𝘨𝘩 𝘚𝘱𝘦𝘦𝘥",
+        audio: "Audio",
+        flags: ["🇧🇷"]
+      }),
+      url: "https://dn720401.ca.archive.org/0/items/homem-aranha-sem-volta-para-casa-1080p/Homem%20Aranha%20%28Sem%20Volta%20Para%20Casa%29%20%281080p%29.mp4"
+    }
+    ],
 }
 
 builder.defineStreamHandler(({ type, id }) => {
