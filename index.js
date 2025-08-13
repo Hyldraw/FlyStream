@@ -18,7 +18,7 @@ const builder = new addonBuilder(manifest)
 // Função para formatar o título em 3 linhas
 function formatTitle({ name, service, audio, flags }) {
   const line1 = name
-  const line2 = `🌊 ${service}`
+  const line2 = `⚡ ${service}`
   const line3 = `${audio} ${flags.map(f => "/ " + f).join(" ")}`
   return `${line1}\n${line2}\n${line3}`
 }
@@ -39,27 +39,52 @@ const streams = {
     }
     ],
 
-  // Lupin
-  "tt10621032": [
+  // Um Maluco no Golfe 2
+  "tt31868189": [
     {
-      name: "FlyStream 720P",
+      name: "FlyStream 1080p",
       title: formatTitle({
-        name: "Lupin III: O Primeiro (2020) [Dublado]",
-        service: "𝘏𝘪𝘨𝘩 𝘚𝘱𝘦𝘦𝘥",
-        audio: "Audio",
-        flags: ["🇧🇷"]
+        name: "Um Maluco no Golfe 2 (2024) [Dual]",
+        service: "Trapalhadas no Campo",
+        audio: "Dual Audio",
+        flags: ["🇧🇷","🇺🇸"]
       }),
-      url: "https://pixeldrain.com/api/file/S341Foj5"
+      url: "https://pixeldrain.com/api/file/ZWGnS9XG"
     }
     ],
 
+  // Lupin III: O Primeiro
+  "tt10621032": [
+      {
+        name: "FlyStream 720p",
+        title: formatTitle({
+          name: "Lupin III: O Primeiro (2020) [Dublado]",
+          service: "Roubo Épico",
+          audio: "Audio",
+          flags: ["🇧🇷"]
+        }),
+        url: "https://ia800504.us.archive.org/33/items/lupin.-iii.-o.-primeiro.-2020.720p.-dub.-enc/Lupin.III.O.Primeiro.2020.720p.DUB.ENC.mp4"
+      },
+      {
+        name: "FlyStream 720p",
+        title: formatTitle({
+          name: "Lupin III: The First (2020) [Dubbed]",
+          service: "Epic Heist",
+          audio: "Audio",
+          flags: ["🇺🇸"]
+        }),
+        url: "https://dn790001.ca.archive.org/0/items/lupin-iii-the-first-english-dub-720p.-720/Lupin%20III-%20The%20First%20%28English%20Dub%29%20%5B720p%5D.720.mp4"
+      }
+  ],
+
+  
   // Robô Selvagem
   "tt29623480": [
     {
-      name: "FlyStream 1080P",
+      name: "FlyStream 1080p",
       title: formatTitle({
         name: "Robô Selvagem (2024) [Dual]",
-        service: "𝘏𝘪𝘨𝘩 𝘚𝘱𝘦𝘦𝘥",
+        service: "Robô e Natureza",
         audio: "Dual Audio",
         flags: ["🇧🇷","🇺🇸"]
       }),
@@ -70,12 +95,12 @@ const streams = {
     // Homem Aranha: Sem volta para casa
   "tt10872600": [
     {
-      name: "FlyStream 1080P",
+      name: "FlyStream 1080p",
       title: formatTitle({
-        name: "Homem Aranha: Sem Volta Para Casa (2021) [Dublado]",
-        service: "𝘏𝘪𝘨𝘩 𝘚𝘱𝘦𝘦𝘥",
-        audio: "Audio",
-        flags: ["🇧🇷"]
+        name: "Homem Aranha: Sem Volta Para Casa (2021) [Dual]",
+        service: "O Passado Retorna",
+        audio: "Dual Audio",
+        flags: ["🇧🇷","🇺🇸"]
       }),
       url: "https://dn720401.ca.archive.org/0/items/homem-aranha-sem-volta-para-casa-1080p/Homem%20Aranha%20%28Sem%20Volta%20Para%20Casa%29%20%281080p%29.mp4"
     }
@@ -84,10 +109,10 @@ const streams = {
   // Homem Aranha: Longe de Casa
   "tt6320628": [
     {
-      name: "FlyStream 1080P",
+      name: "FlyStream 1080p",
       title: formatTitle({
         name: "Homem Aranha: Longe De Casa (2019) [Dublado]",
-        service: "𝘏𝘪𝘨𝘩 𝘚𝘱𝘦𝘦𝘥",
+        service: "Mistério na Europa",
         audio: "Audio",
         flags: ["🇧🇷"]
       }),
@@ -95,13 +120,27 @@ const streams = {
     }
     ],
 
-  // Homem Aranha: No Aranha verso
-  "tt6320628": [
+  // Homem Aranha: De volta ao lar
+  "tt2250912": [
     {
-      name: "FlyStream 1080P",
+      name: "FlyStream 1080p",
+      title: formatTitle({
+        name: "Homem-Aranha: De Volta ao Lar (2017) [Dual]",
+        service: "Desafios do Lar",
+        audio: "Dual Audio",
+        flags: ["🇧🇷","🇺🇸"]
+      }),
+      url: "https://pixeldrain.com/api/file/s1YZmkja"
+    }
+    ],
+
+  // Homem Aranha: No Aranhaverso
+  "tt4633694": [
+    {
+      name: "FlyStream 1080p",
       title: formatTitle({
         name: "Homem Aranha: No Aranhaverso (2018) [Dublado]",
-        service: "𝘏𝘪𝘨𝘩 𝘚𝘱𝘦𝘦𝘥",
+        service: "Realidades Paralelas",
         audio: "Audio",
         flags: ["🇧🇷"]
       }),
@@ -109,27 +148,27 @@ const streams = {
     }
     ],
 
-  // Homem Aranha: No Aranha verso
-  "tt4633694": [
+  // Homem Aranha: Através Aranhaverso
+  "tt9362722": [
     {
-      name: "FlyStream 1080P",
+      name: "FlyStream 1080p",
       title: formatTitle({
-        name: "Homem Aranha: No Aranhaverso (2018) [Dublado]",
-        service: "𝘏𝘪𝘨𝘩 𝘚𝘱𝘦𝘦𝘥",
-        audio: "Audio",
-        flags: ["🇧🇷"]
+        name: "Homem-Aranha: Através do Aranhaverso (2023) [Dual]",
+        service: "Dimensões em Choque",
+        audio: "Dual Audio",
+        flags: ["🇧🇷","🇺🇸"]
       }),
-      url: "https://dn720407.ca.archive.org/0/items/homem-aranha-no-aranhaverso/Homem-Aranha%20no%20Aranhaverso.ia.mp4"
+      url: "https://pixeldrain.com/api/file/SeABQN6Q"
     }
     ],
 
   // O Espetacular Homem Aranha animação - T1
   "tt0976192:1:1": [
     {
-      name: "FlyStream 720P",
+      name: "FlyStream 720p",
       title: formatTitle({
         name: "O Espetacular Homem-Aranha (2008) [T01 EP01] [Dublado]",
-        service: "𝘏𝘪𝘨𝘩 𝘚𝘱𝘦𝘦𝘥",
+        service: "Teias e Vilões",
         audio: "Audio",
         flags: ["🇧🇷"]
       }),
@@ -139,10 +178,10 @@ const streams = {
 
   "tt0976192:1:2": [
   {
-    name: "FlyStream 720P",
+    name: "FlyStream 720p",
     title: formatTitle({
       name: "O Espetacular Homem-Aranha (2008) [T01 EP02] [Dublado]",
-      service: "𝘏𝘪𝘨𝘩 𝘚𝘱𝘦𝘦𝘥",
+      service: "Teias e Vilões",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -152,10 +191,10 @@ const streams = {
 
   "tt0976192:1:3": [
   {
-    name: "FlyStream 720P",
+    name: "FlyStream 720p",
     title: formatTitle({
       name: "O Espetacular Homem-Aranha (2008) [T01 EP03] [Dublado]",
-      service: "𝘏𝘪𝘨𝘩 𝘚𝘱𝘦𝘦𝘥",
+      service: "Teias e Vilões",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -165,10 +204,10 @@ const streams = {
 
   "tt0976192:1:4": [
   {
-    name: "FlyStream 720P",
+    name: "FlyStream 720p",
     title: formatTitle({
       name: "O Espetacular Homem-Aranha (2008) [T01 EP04] [Dublado]",
-      service: "𝘏𝘪𝘨𝘩 𝘚𝘱𝘦𝘦𝘥",
+      service: "Teias e Vilões",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -178,10 +217,10 @@ const streams = {
 
   "tt0976192:1:5": [
   {
-    name: "FlyStream 720P",
+    name: "FlyStream 720p",
     title: formatTitle({
       name: "O Espetacular Homem-Aranha (2008) [T01 EP05] [Dublado]",
-      service: "𝘏𝘪𝘨𝘩 𝘚𝘱𝘦𝘦𝘥",
+      service: "Teias e Vilões",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -191,10 +230,10 @@ const streams = {
 
   "tt0976192:1:6": [
   {
-    name: "FlyStream 720P",
+    name: "FlyStream 720p",
     title: formatTitle({
       name: "O Espetacular Homem-Aranha (2008) [T01 EP06] [Dublado]",
-      service: "𝘏𝘪𝘨𝘩 𝘚𝘱𝘦𝘦𝘥",
+      service: "Teias e Vilões",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -204,10 +243,10 @@ const streams = {
 
   "tt0976192:1:7": [
   {
-    name: "FlyStream 720P",
+    name: "FlyStream 720p",
     title: formatTitle({
       name: "O Espetacular Homem-Aranha (2008) [T01 EP07] [Dublado]",
-      service: "𝘏𝘪𝘨𝘩 𝘚𝘱𝘦𝘦𝘥",
+      service: "Teias e Vilões",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -217,10 +256,10 @@ const streams = {
 
   "tt0976192:1:8": [
   {
-    name: "FlyStream 720P",
+    name: "FlyStream 720p",
     title: formatTitle({
       name: "O Espetacular Homem-Aranha (2008) [T01 EP08] [Dublado]",
-      service: "𝘏𝘪𝘨𝘩 𝘚𝘱𝘦𝘦𝘥",
+      service: "Teias e Vilões",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -230,10 +269,10 @@ const streams = {
 
   "tt0976192:1:9": [
   {
-    name: "FlyStream 720P",
+    name: "FlyStream 720p",
     title: formatTitle({
       name: "O Espetacular Homem-Aranha (2008) [T01 EP09] [Dublado]",
-      service: "𝘏𝘪𝘨𝘩 𝘚𝘱𝘦𝘦𝘥",
+      service: "Teias e Vilões",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -243,10 +282,10 @@ const streams = {
 
   "tt0976192:1:10": [
   {
-    name: "FlyStream 720P",
+    name: "FlyStream 720p",
     title: formatTitle({
       name: "O Espetacular Homem-Aranha (2008) [T01 EP010] [Dublado]",
-      service: "𝘏𝘪𝘨𝘩 𝘚𝘱𝘦𝘦𝘥",
+      service: "Teias e Vilões",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -256,10 +295,10 @@ const streams = {
 
   "tt0976192:1:11": [
   {
-    name: "FlyStream 720P",
+    name: "FlyStream 720p",
     title: formatTitle({
       name: "O Espetacular Homem-Aranha (2008) [T01 EP011] [Dublado]",
-      service: "𝘏𝘪𝘨𝘩 𝘚𝘱𝘦𝘦𝘥",
+      service: "Teias e Vilões",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -269,10 +308,10 @@ const streams = {
 
   "tt0976192:1:12": [
   {
-    name: "FlyStream 720P",
+    name: "FlyStream 720p",
     title: formatTitle({
       name: "O Espetacular Homem-Aranha (2008) [T01 EP12] [Dublado]",
-      service: "𝘏𝘪𝘨𝘩 𝘚𝘱𝘦𝘦𝘥",
+      service: "Teias e Vilões",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -282,10 +321,10 @@ const streams = {
 
   "tt0976192:1:13": [
   {
-    name: "FlyStream 720P",
+    name: "FlyStream 720p",
     title: formatTitle({
       name: "O Espetacular Homem-Aranha (2008) [T01 EP13] [Dublado]",
-      service: "𝘏𝘪𝘨𝘩 𝘚𝘱𝘦𝘦𝘥",
+      service: "Teias e Vilões",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -296,10 +335,10 @@ const streams = {
   // O Espetacular Homem Aranha animação - T2
   "tt0976192:2:1": [
   {
-    name: "FlyStream 720P",
+    name: "FlyStream 720p",
     title: formatTitle({
       name: "O Espetacular Homem-Aranha (2009) [T02 EP1] [Dublado]",
-      service: "𝘏𝘪𝘨𝘩 𝘚𝘱𝘦𝘦𝘥",
+      service: "Teias e Vilões",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -309,10 +348,10 @@ const streams = {
 
   "tt0976192:2:2": [
   {
-    name: "FlyStream 720P",
+    name: "FlyStream 720p",
     title: formatTitle({
       name: "O Espetacular Homem-Aranha (2009) [T02 EP2] [Dublado]",
-      service: "𝘏𝘪𝘨𝘩 𝘚𝘱𝘦𝘦𝘥",
+      service: "Teias e Vilões",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -322,10 +361,10 @@ const streams = {
 
   "tt0976192:2:3": [
   {
-    name: "FlyStream 720P",
+    name: "FlyStream 720p",
     title: formatTitle({
       name: "O Espetacular Homem-Aranha (2009) [T02 EP3] [Dublado]",
-      service: "𝘏𝘪𝘨𝘩 𝘚𝘱𝘦𝘦𝘥",
+      service: "Teias e Vilões",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -335,10 +374,10 @@ const streams = {
 
   "tt0976192:2:4": [
   {
-    name: "FlyStream 720P",
+    name: "FlyStream 720p",
     title: formatTitle({
       name: "O Espetacular Homem-Aranha (2009) [T02 EP4] [Dublado]",
-      service: "𝘏𝘪𝘨𝘩 𝘚𝘱𝘦𝘦𝘥",
+      service: "Teias e Vilões",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -348,10 +387,10 @@ const streams = {
 
   "tt0976192:2:5": [
   {
-    name: "FlyStream 720P",
+    name: "FlyStream 720p",
     title: formatTitle({
       name: "O Espetacular Homem-Aranha (2009) [T02 EP5] [Dublado]",
-      service: "𝘏𝘪𝘨𝘩 𝘚𝘱𝘦𝘦𝘥",
+      service: "Teias e Vilões",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -361,10 +400,10 @@ const streams = {
 
   "tt0976192:2:6": [
   {
-    name: "FlyStream 720P",
+    name: "FlyStream 720p",
     title: formatTitle({
       name: "O Espetacular Homem-Aranha (2009) [T02 EP6] [Dublado]",
-      service: "𝘏𝘪𝘨𝘩 𝘚𝘱𝘦𝘦𝘥",
+      service: "Teias e Vilões",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -374,10 +413,10 @@ const streams = {
 
   "tt0976192:2:7": [
   {
-    name: "FlyStream 720P",
+    name: "FlyStream 720p",
     title: formatTitle({
       name: "O Espetacular Homem-Aranha (2009) [T02 EP7] [Dublado]",
-      service: "𝘏𝘪𝘨𝘩 𝘚𝘱𝘦𝘦𝘥",
+      service: "Teias e Vilões",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -387,10 +426,10 @@ const streams = {
 
   "tt0976192:2:8": [
   {
-    name: "FlyStream 720P",
+    name: "FlyStream 720p",
     title: formatTitle({
       name: "O Espetacular Homem-Aranha (2009) [T02 EP8] [Dublado]",
-      service: "𝘏𝘪𝘨𝘩 𝘚𝘱𝘦𝘦𝘥",
+      service: "Teias e Vilões",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -400,10 +439,10 @@ const streams = {
 
   "tt0976192:2:9": [
   {
-    name: "FlyStream 720P",
+    name: "FlyStream 720p",
     title: formatTitle({
       name: "O Espetacular Homem-Aranha (2009) [T02 EP9] [Dublado]",
-      service: "𝘏𝘪𝘨𝘩 𝘚𝘱𝘦𝘦𝘥",
+      service: "Teias e Vilões",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -413,10 +452,10 @@ const streams = {
 
   "tt0976192:2:10": [
   {
-    name: "FlyStream 720P",
+    name: "FlyStream 720p",
     title: formatTitle({
       name: "O Espetacular Homem-Aranha (2009) [T02 EP10] [Dublado]",
-      service: "𝘏𝘪𝘨𝘩 𝘚𝘱𝘦𝘦𝘥",
+      service: "Teias e Vilões",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -426,10 +465,10 @@ const streams = {
 
   "tt0976192:2:11": [
   {
-    name: "FlyStream 720P",
+    name: "FlyStream 720p",
     title: formatTitle({
       name: "O Espetacular Homem-Aranha (2009) [T02 EP11] [Dublado]",
-      service: "𝘏𝘪𝘨𝘩 𝘚𝘱𝘦𝘦𝘥",
+      service: "Teias e Vilões",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -439,10 +478,10 @@ const streams = {
 
   "tt0976192:2:12": [
   {
-    name: "FlyStream 720P",
+    name: "FlyStream 720p",
     title: formatTitle({
       name: "O Espetacular Homem-Aranha (2009) [T02 EP12] [Dublado]",
-      service: "𝘏𝘪𝘨𝘩 𝘚𝘱𝘦𝘦𝘥",
+      service: "Teias e Vilões",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -452,14 +491,68 @@ const streams = {
 
   "tt0976192:2:13": [
   {
-    name: "FlyStream 720P",
+    name: "FlyStream 720p",
     title: formatTitle({
       name: "O Espetacular Homem-Aranha (2009) [T02 EP13] [Dublado]",
-      service: "𝘏𝘪𝘨𝘩 𝘚𝘱𝘦𝘦𝘥",
+      service: "Teias e Vilões",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
     url: "https://ia600604.us.archive.org/26/items/o-espetacular-homem-aranha-2008-2009/O%20Espetacular%20Homem-Aranha%20%282008-2009%29%2FTemporada%2002%20%282009%29%2F008%20Drama%2F026%20Ato%20Final%20%282009%29.ia.mp4"
+  }
+  ],
+
+  // Como treinar o seu dragão
+  "tt0892769": [
+  {
+    name: "FlyStream 720p",
+    title: formatTitle({
+      name: "Como Treinar o Seu Dragão (2010) [Dublado]",
+      service: "Descobrindo o Dragão",
+      audio: "Audio",
+      flags: ["🇧🇷"]
+    }),
+    url: "https://ia800901.us.archive.org/30/items/dragao/como_treinar_o_seu_dragao_1.mp4"
+  }
+  ],
+
+  "tt1646971": [
+  {
+    name: "FlyStream 720p",
+    title: formatTitle({
+      name: "Como Treinar o Seu Dragão 2 (2014) [Dual]",
+      service: "Aventura e Descoberta",
+      audio: "Dual Audio",
+      flags: ["🇧🇷","🇺🇸"]
+    }),
+    url: "https://ia600901.us.archive.org/30/items/dragao/Como.Treinar.o.Seu.Drag%C3%A3o.2.2014.720p.WEB-DL.Dual-WOLVERDONFILMES.COM.mp4"
+  }
+  ],
+
+  "tt1646971": [
+  {
+    name: "FlyStream 720p",
+    title: formatTitle({
+      name: "Como Treinar o Seu Dragão 3 (2019) [Dual]",
+      service: "Dragões e Destinos",
+      audio: "Dual Audio",
+      flags: ["🇧🇷","🇺🇸"]
+    }),
+    url: "https://ia600901.us.archive.org/30/items/dragao/Como.Treinar.o.Seu.Drag%C3%A3o.3.2019.720p.BluRay.6CH.x264.DUAL-WWW.BLUDV.TV.mp4"
+  }
+  ],
+
+  // Ghostbusters: apocalipse de gelo
+  "tt21235248": [
+  {
+    name: "FlyStream 1080p",
+    title: formatTitle({
+      name: "Ghostbusters: Apocalipse de Gelo (2024) [Dual]",
+      service: "Apocalipse Gelado",
+      audio: "Dual Audio",
+      flags: ["🇧🇷","🇺🇸"]
+    }),
+    url: "https://pixeldrain.com/api/file/VCThRnB4"
   }
   ],
 }
