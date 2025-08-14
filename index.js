@@ -18,7 +18,7 @@ const builder = new addonBuilder(manifest)
 // Função para formatar o título em 3 linhas
 function formatTitle({ name, service, audio, flags }) {
   const line1 = name
-  const line2 = `▫️ ${service}`
+  const line2 = `└┨ ${service}`
   const line3 = `${audio} ${flags.map(f => "/ " + f).join(" ")}`
   return `${line1}\n${line2}\n${line3}`
 }
