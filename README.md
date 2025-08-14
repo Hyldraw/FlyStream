@@ -1,6 +1,7 @@
 # 🌊 FlyStream - Addon para Stremio
 
-**Filmes e séries** com carregamento rápido com o **FlyStream**, sem travamentos e com excelente qualidade de imagem e áudio. Experiência fluida para você assistir sem interrupções.
+» **Filmes e séries** com carregamento rápido com o **FlyStream**, sem travamentos e com excelente qualidade de imagem e áudio. Experiência fluida para você assistir sem interrupções.
+
 ---
 
 ## ✨ Principais recursos
