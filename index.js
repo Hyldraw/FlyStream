@@ -39,6 +39,20 @@ const streams = {
     }
     ],
 
+// Guerreiras do K-Pop
+  "tt14205554": [
+    {
+      name: "FlyStream 1080p",
+      title: formatTitle({
+        name: "Guerreiras do K-Pop (2025) [Dual]",
+        service: "Diga Adeus Aos Demonios",
+        audio: "Dual Audio",
+        flags: ["🇧🇷","🇺🇸"]
+      }),
+      url: "https://pixeldrain.com/api/file/AdttkhWm"
+    }
+    ],
+  
   // Um Maluco no Golfe 2
   "tt31868189": [
     {
