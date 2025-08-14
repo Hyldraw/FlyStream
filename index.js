@@ -18,7 +18,7 @@ const builder = new addonBuilder(manifest)
 // Função para formatar o título em 3 linhas
 function formatTitle({ name, service, audio, flags }) {
   const line1 = name
-  const line2 = `${service}`
+  const line2 = `▫️ ${service}`
   const line3 = `${audio} ${flags.map(f => "/ " + f).join(" ")}`
   return `${line1}\n${line2}\n${line3}`
 }
@@ -45,7 +45,7 @@ const streams = {
       name: "FlyStream 1080p",
       title: formatTitle({
         name: "Um Maluco no Golfe 2 (2024) [Dual]",
-        service: "⛳ Trapalhadas no Campo",
+        service: "Trapalhadas no Campo",
         audio: "Dual Audio",
         flags: ["🇧🇷","🇺🇸"]
       }),
@@ -59,7 +59,7 @@ const streams = {
         name: "FlyStream 720p",
         title: formatTitle({
           name: "Lupin III: O Primeiro (2020) [Dublado]",
-          service: "🧨 Roubo Épico",
+          service: "Roubo Épico",
           audio: "Audio",
           flags: ["🇧🇷"]
         }),
