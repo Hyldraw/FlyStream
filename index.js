@@ -18,7 +18,7 @@ const builder = new addonBuilder(manifest)
 // Função para formatar o título em 3 linhas
 function formatTitle({ name, service, audio, flags }) {
   const line1 = `🌊 ${name}`
-  const line2 = `⚓ ${service}`
+  const line2 = `⛈️ ${service}`
   const line3 = `${audio} ${flags.map(f => "/ " + f).join(" ")}`
   return `${line1}\n${line2}\n${line3}`
 }
@@ -44,7 +44,7 @@ const streams = {
     {
       name: "FlyStream 1080p",
       title: formatTitle({
-        name: "Guerreiras do K-Pop (2025) [Dual]",
+        name: "Guerreiras do K-Pop (2025) [Dual 5.1] [WEB-DL]",
         service: "Diga Adeus Aos Demonios",
         audio: "Dual Audio",
         flags: ["🇧🇷","🇺🇸"]
@@ -58,7 +58,7 @@ const streams = {
     {
       name: "FlyStream 1080p",
       title: formatTitle({
-        name: "Um Maluco no Golfe 2 (2024) [Dual]",
+        name: "Um Maluco no Golfe 2 (2024) [Dual 5.1] [WEB-DL]",
         service: "Trapalhadas no Campo",
         audio: "Dual Audio",
         flags: ["🇧🇷","🇺🇸"]
@@ -72,7 +72,7 @@ const streams = {
       {
         name: "FlyStream 720p",
         title: formatTitle({
-          name: "Lupin III: O Primeiro (2020) [Dublado]",
+          name: "Lupin III: O Primeiro (2020) [Dublado] [Archive.org]",
           service: "Roubo Épico",
           audio: "Audio",
           flags: ["🇧🇷"]
@@ -82,7 +82,7 @@ const streams = {
       {
         name: "FlyStream 720p",
         title: formatTitle({
-          name: "Lupin III: The First (2020) [Dubbed]",
+          name: "Lupin III: The First (2020) [Dubbed] [Archive.org]",
           service: "Epic Heist",
           audio: "Audio",
           flags: ["🇺🇸"]
@@ -97,7 +97,7 @@ const streams = {
     {
       name: "FlyStream 1080p",
       title: formatTitle({
-        name: "Robô Selvagem (2024) [Dual]",
+        name: "Robô Selvagem (2024) [Dual 5.1] [WEB-DL]",
         service: "Robô e Natureza",
         audio: "Dual Audio",
         flags: ["🇧🇷","🇺🇸"]
@@ -111,7 +111,7 @@ const streams = {
     {
       name: "FlyStream 1080p",
       title: formatTitle({
-        name: "Homem Aranha: Sem Volta Para Casa (2021) [Dual]",
+        name: "Homem Aranha: Sem Volta Para Casa (2021) [Dual] [Archive.org]",
         service: "O Passado Retorna",
         audio: "Dual Audio",
         flags: ["🇧🇷","🇺🇸"]
@@ -125,7 +125,7 @@ const streams = {
     {
       name: "FlyStream 1080p",
       title: formatTitle({
-        name: "Homem Aranha: Longe De Casa (2019) [Dublado]",
+        name: "Homem Aranha: Longe De Casa (2019) [Dublado] [Archive.org]",
         service: "Mistério na Europa",
         audio: "Audio",
         flags: ["🇧🇷"]
@@ -139,7 +139,7 @@ const streams = {
     {
       name: "FlyStream 1080p",
       title: formatTitle({
-        name: "Homem-Aranha: De Volta ao Lar (2017) [Dual]",
+        name: "Homem-Aranha: De Volta ao Lar (2017) [Dual 5.1] [WEB-DL]",
         service: "Desafios do Lar",
         audio: "Dual Audio",
         flags: ["🇧🇷","🇺🇸"]
@@ -153,7 +153,7 @@ const streams = {
     {
       name: "FlyStream 1080p",
       title: formatTitle({
-        name: "Homem Aranha: No Aranhaverso (2018) [Dublado]",
+        name: "Homem Aranha: No Aranhaverso (2018) [Dublado] [Archive.org]",
         service: "Realidades Paralelas",
         audio: "Audio",
         flags: ["🇧🇷"]
@@ -167,7 +167,7 @@ const streams = {
     {
       name: "FlyStream 1080p",
       title: formatTitle({
-        name: "Homem-Aranha: Através do Aranhaverso (2023) [Dual]",
+        name: "Homem-Aranha: Através do Aranhaverso (2023) [Dual 5.1] [WEB-DL]",
         service: "Dimensões em Choque",
         audio: "Dual Audio",
         flags: ["🇧🇷","🇺🇸"]
@@ -521,7 +521,7 @@ const streams = {
   {
     name: "FlyStream 720p",
     title: formatTitle({
-      name: "Como Treinar o Seu Dragão (2010) [Dublado]",
+      name: "Como Treinar o Seu Dragão (2010) [Dublado] [Archive.org]",
       service: "Descobrindo o Dragão",
       audio: "Audio",
       flags: ["🇧🇷"]
@@ -534,7 +534,7 @@ const streams = {
   {
     name: "FlyStream 720p",
     title: formatTitle({
-      name: "Como Treinar o Seu Dragão 2 (2014) [Dual]",
+      name: "Como Treinar o Seu Dragão 2 (2014) [Dublado] [WEB-DL] [Archive.org]",
       service: "Aventura e Descoberta",
       audio: "Dual Audio",
       flags: ["🇧🇷","🇺🇸"]
@@ -547,7 +547,7 @@ const streams = {
   {
     name: "FlyStream 720p",
     title: formatTitle({
-      name: "Como Treinar o Seu Dragão 3 (2019) [Dual]",
+      name: "Como Treinar o Seu Dragão 3 (2019) [Dublado] [BluRay] [Archive.org]",
       service: "Dragões e Destinos",
       audio: "Dual Audio",
       flags: ["🇧🇷","🇺🇸"]
@@ -561,7 +561,7 @@ const streams = {
   {
     name: "FlyStream 1080p",
     title: formatTitle({
-      name: "Ghostbusters: Apocalipse de Gelo (2024) [Dual]",
+      name: "Ghostbusters: Apocalipse de Gelo (2024) [Dual] [WEB-DL]",
       service: "Apocalipse Gelado",
       audio: "Dual Audio",
       flags: ["🇧🇷","🇺🇸"]
