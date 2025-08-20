@@ -40,13 +40,27 @@ const streams = {
     ],
 
 // 2025
+ // Superman
+  "tt14205554": [
+    {
+      name: "FlyStream 1080p",
+      title: formatTitle({
+        name: "Superman (2025) [Dual 5.1] [WEB-DL]",
+        service: "🦸 O Retorno do Herói",
+        audio: "Dual Audio",
+        flags: ["🇧🇷","🇺🇸"]
+      }),
+      url: "https://pixeldrain.com/api/file/ADzCDrBw"
+    }
+    ],
+
   // Guerreiras do K-Pop
   "tt14205554": [
     {
       name: "FlyStream 1080p",
       title: formatTitle({
         name: "Guerreiras do K-Pop (2025) [Dual 5.1] [WEB-DL]",
-        service: "🗡️ Diga Adeus Aos Demonios",
+        service: "🗡️ Diga Adeus aos Demonios",
         audio: "Dual Audio",
         flags: ["🇧🇷","🇺🇸"]
       }),
