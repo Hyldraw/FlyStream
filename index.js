@@ -181,8 +181,8 @@ const streams = {
     {
       name: "FlyStream 720p",
       title: formatTitle({
-        name: "O Espetacular Homem-Aranha (2008) [T01 EP01] [Dublado]",
-        service: "Teias e Vilões",
+        name: "O Espetacular Homem-Aranha (2008) [T01 EP01] [Dublado] [Archive.org]",
+        service: "🕸️ Teias e Vilões",
         audio: "Audio",
         flags: ["🇧🇷"]
       }),
@@ -194,8 +194,8 @@ const streams = {
   {
     name: "FlyStream 720p",
     title: formatTitle({
-      name: "O Espetacular Homem-Aranha (2008) [T01 EP02] [Dublado]",
-      service: "Teias e Vilões",
+      name: "O Espetacular Homem-Aranha (2008) [T01 EP02] [Dublado] [Archive.org]",
+      service: "🕸️ Teias e Vilões",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -207,8 +207,8 @@ const streams = {
   {
     name: "FlyStream 720p",
     title: formatTitle({
-      name: "O Espetacular Homem-Aranha (2008) [T01 EP03] [Dublado]",
-      service: "Teias e Vilões",
+      name: "O Espetacular Homem-Aranha (2008) [T01 EP03] [Dublado] [Archive.org]",
+      service: "🕸️ Teias e Vilões",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -220,8 +220,8 @@ const streams = {
   {
     name: "FlyStream 720p",
     title: formatTitle({
-      name: "O Espetacular Homem-Aranha (2008) [T01 EP04] [Dublado]",
-      service: "Teias e Vilões",
+      name: "O Espetacular Homem-Aranha (2008) [T01 EP04] [Dublado] [Archive.org]",
+      service: "🕸️ Teias e Vilões",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -233,8 +233,8 @@ const streams = {
   {
     name: "FlyStream 720p",
     title: formatTitle({
-      name: "O Espetacular Homem-Aranha (2008) [T01 EP05] [Dublado]",
-      service: "Teias e Vilões",
+      name: "O Espetacular Homem-Aranha (2008) [T01 EP05] [Dublado] [Archive.org]",
+      service: "🕸️ Teias e Vilões",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -246,8 +246,8 @@ const streams = {
   {
     name: "FlyStream 720p",
     title: formatTitle({
-      name: "O Espetacular Homem-Aranha (2008) [T01 EP06] [Dublado]",
-      service: "Teias e Vilões",
+      name: "O Espetacular Homem-Aranha (2008) [T01 EP06] [Dublado] [Archive.org]",
+      service: "🕸️ Teias e Vilões",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -259,8 +259,8 @@ const streams = {
   {
     name: "FlyStream 720p",
     title: formatTitle({
-      name: "O Espetacular Homem-Aranha (2008) [T01 EP07] [Dublado]",
-      service: "Teias e Vilões",
+      name: "O Espetacular Homem-Aranha (2008) [T01 EP07] [Dublado] [Archive.org]",
+      service: "🕸️ Teias e Vilões",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -272,8 +272,8 @@ const streams = {
   {
     name: "FlyStream 720p",
     title: formatTitle({
-      name: "O Espetacular Homem-Aranha (2008) [T01 EP08] [Dublado]",
-      service: "Teias e Vilões",
+      name: "O Espetacular Homem-Aranha (2008) [T01 EP08] [Dublado] [Archive.org]",
+      service: "🕸️ Teias e Vilões",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -285,8 +285,8 @@ const streams = {
   {
     name: "FlyStream 720p",
     title: formatTitle({
-      name: "O Espetacular Homem-Aranha (2008) [T01 EP09] [Dublado]",
-      service: "Teias e Vilões",
+      name: "O Espetacular Homem-Aranha (2008) [T01 EP09] [Dublado] [Archive.org]",
+      service: "🕸️ Teias e Vilões",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -298,8 +298,8 @@ const streams = {
   {
     name: "FlyStream 720p",
     title: formatTitle({
-      name: "O Espetacular Homem-Aranha (2008) [T01 EP010] [Dublado]",
-      service: "Teias e Vilões",
+      name: "O Espetacular Homem-Aranha (2008) [T01 EP010] [Dublado] [Archive.org]",
+      service: "🕸️ Teias e Vilões",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -311,8 +311,8 @@ const streams = {
   {
     name: "FlyStream 720p",
     title: formatTitle({
-      name: "O Espetacular Homem-Aranha (2008) [T01 EP011] [Dublado]",
-      service: "Teias e Vilões",
+      name: "O Espetacular Homem-Aranha (2008) [T01 EP011] [Dublado] [Archive.org]",
+      service: "🕸️ Teias e Vilões",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -324,8 +324,8 @@ const streams = {
   {
     name: "FlyStream 720p",
     title: formatTitle({
-      name: "O Espetacular Homem-Aranha (2008) [T01 EP12] [Dublado]",
-      service: "Teias e Vilões",
+      name: "O Espetacular Homem-Aranha (2008) [T01 EP12] [Dublado] [Archive.org]",
+      service: "🕸️ Teias e Vilões",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -337,8 +337,8 @@ const streams = {
   {
     name: "FlyStream 720p",
     title: formatTitle({
-      name: "O Espetacular Homem-Aranha (2008) [T01 EP13] [Dublado]",
-      service: "Teias e Vilões",
+      name: "O Espetacular Homem-Aranha (2008) [T01 EP13] [Dublado] [Archive.org]",
+      service: "🕸️ Teias e Vilões",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -351,8 +351,8 @@ const streams = {
   {
     name: "FlyStream 720p",
     title: formatTitle({
-      name: "O Espetacular Homem-Aranha (2009) [T02 EP1] [Dublado]",
-      service: "Teias e Vilões",
+      name: "O Espetacular Homem-Aranha (2009) [T02 EP1] [Dublado] [Archive.org]",
+      service: "🕷️ Teias Contra o Crime",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -364,8 +364,8 @@ const streams = {
   {
     name: "FlyStream 720p",
     title: formatTitle({
-      name: "O Espetacular Homem-Aranha (2009) [T02 EP2] [Dublado]",
-      service: "Teias e Vilões",
+      name: "O Espetacular Homem-Aranha (2009) [T02 EP2] [Dublado] [Archive.org]",
+      service: "🕷️ Teias Contra o Crime",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -377,8 +377,8 @@ const streams = {
   {
     name: "FlyStream 720p",
     title: formatTitle({
-      name: "O Espetacular Homem-Aranha (2009) [T02 EP3] [Dublado]",
-      service: "Teias e Vilões",
+      name: "O Espetacular Homem-Aranha (2009) [T02 EP3] [Dublado] [Archive.org]",
+      service: "🕷️ Teias Contra o Crime",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -390,8 +390,8 @@ const streams = {
   {
     name: "FlyStream 720p",
     title: formatTitle({
-      name: "O Espetacular Homem-Aranha (2009) [T02 EP4] [Dublado]",
-      service: "Teias e Vilões",
+      name: "O Espetacular Homem-Aranha (2009) [T02 EP4] [Dublado] [Archive.org]",
+      service: "🕷️ Teias Contra o Crime",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -403,8 +403,8 @@ const streams = {
   {
     name: "FlyStream 720p",
     title: formatTitle({
-      name: "O Espetacular Homem-Aranha (2009) [T02 EP5] [Dublado]",
-      service: "Teias e Vilões",
+      name: "O Espetacular Homem-Aranha (2009) [T02 EP5] [Dublado] [Archive.org]",
+      service: "🕷️ Teias Contra o Crime",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -416,8 +416,8 @@ const streams = {
   {
     name: "FlyStream 720p",
     title: formatTitle({
-      name: "O Espetacular Homem-Aranha (2009) [T02 EP6] [Dublado]",
-      service: "Teias e Vilões",
+      name: "O Espetacular Homem-Aranha (2009) [T02 EP6] [Dublado] [Archive.org]",
+      service: "🕷️ Teias Contra o Crime",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -429,8 +429,8 @@ const streams = {
   {
     name: "FlyStream 720p",
     title: formatTitle({
-      name: "O Espetacular Homem-Aranha (2009) [T02 EP7] [Dublado]",
-      service: "Teias e Vilões",
+      name: "O Espetacular Homem-Aranha (2009) [T02 EP7] [Dublado] [Archive.org]",
+      service: "🕷️ Teias Contra o Crime",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -442,8 +442,8 @@ const streams = {
   {
     name: "FlyStream 720p",
     title: formatTitle({
-      name: "O Espetacular Homem-Aranha (2009) [T02 EP8] [Dublado]",
-      service: "Teias e Vilões",
+      name: "O Espetacular Homem-Aranha (2009) [T02 EP8] [Dublado] [Archive.org]",
+      service: "🕷️ Teias Contra o Crime",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -455,8 +455,8 @@ const streams = {
   {
     name: "FlyStream 720p",
     title: formatTitle({
-      name: "O Espetacular Homem-Aranha (2009) [T02 EP9] [Dublado]",
-      service: "Teias e Vilões",
+      name: "O Espetacular Homem-Aranha (2009) [T02 EP9] [Dublado] [Archive.org]",
+      service: "🕷️ Teias Contra o Crime",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -468,8 +468,8 @@ const streams = {
   {
     name: "FlyStream 720p",
     title: formatTitle({
-      name: "O Espetacular Homem-Aranha (2009) [T02 EP10] [Dublado]",
-      service: "Teias e Vilões",
+      name: "O Espetacular Homem-Aranha (2009) [T02 EP10] [Dublado] [Archive.org]",
+      service: "🕷️ Teias Contra o Crime",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -481,8 +481,8 @@ const streams = {
   {
     name: "FlyStream 720p",
     title: formatTitle({
-      name: "O Espetacular Homem-Aranha (2009) [T02 EP11] [Dublado]",
-      service: "Teias e Vilões",
+      name: "O Espetacular Homem-Aranha (2009) [T02 EP11] [Dublado] [Archive.org]",
+      service: "🕷️ Teias Contra o Crime",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -494,8 +494,8 @@ const streams = {
   {
     name: "FlyStream 720p",
     title: formatTitle({
-      name: "O Espetacular Homem-Aranha (2009) [T02 EP12] [Dublado]",
-      service: "Teias e Vilões",
+      name: "O Espetacular Homem-Aranha (2009) [T02 EP12] [Dublado] [Archive.org]",
+      service: "🕷️ Teias Contra o Crime",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
@@ -507,8 +507,8 @@ const streams = {
   {
     name: "FlyStream 720p",
     title: formatTitle({
-      name: "O Espetacular Homem-Aranha (2009) [T02 EP13] [Dublado]",
-      service: "Teias e Vilões",
+      name: "O Espetacular Homem-Aranha (2009) [T02 EP13] [Dublado] [Archive.org]",
+      service: "🕷️ Teias Contra o Crime",
       audio: "Audio",
       flags: ["🇧🇷"]
     }),
