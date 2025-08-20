@@ -39,7 +39,8 @@ const streams = {
     }
     ],
 
-// Guerreiras do K-Pop
+// 2025
+  // Guerreiras do K-Pop
   "tt14205554": [
     {
       name: "FlyStream 1080p",
@@ -66,7 +67,81 @@ const streams = {
       url: "https://pixeldrain.com/api/file/ZWGnS9XG"
     }
     ],
+  
+// Jurassic World: Recomeço
+  "tt31036941": [
+    {
+      name: "FlyStream 1080p",
+      title: formatTitle({
+        name: "Jurassic World: Recomeço (2025) [Dual 5.1] [WEB-DL]",
+        service: "🦖 A Volta dos Gigantes",
+        audio: "Dual Audio",
+        flags: ["🇧🇷","🇺🇸"]
+      }),
+      url: "https://pixeldrain.com/api/file/gmafV1VL"
+    }
+    ],
 
+// 2024
+  // Robô Selvagem
+  "tt29623480": [
+    {
+      name: "FlyStream 1080p",
+      title: formatTitle({
+        name: "Robô Selvagem (2024) [Dual 5.1] [WEB-DL]",
+        service: "🌱 Robô e Natureza",
+        audio: "Dual Audio",
+        flags: ["🇧🇷","🇺🇸"]
+      }),
+      url: "https://pixeldrain.com/api/file/nKoh96i3"
+    }
+    ],
+   
+  // Ghostbusters: apocalipse de gelo
+  "tt21235248": [
+  {
+    name: "FlyStream 1080p",
+    title: formatTitle({
+      name: "Ghostbusters: Apocalipse de Gelo (2024) [Dual] [WEB-DL]",
+      service: "🌨️ Apocalipse Gelado",
+      audio: "Dual Audio",
+      flags: ["🇧🇷","🇺🇸"]
+    }),
+    url: "https://pixeldrain.com/api/file/VCThRnB4"
+  }
+  ],
+
+// 2023
+  // Homem Aranha: Através Aranhaverso
+  "tt9362722": [
+    {
+      name: "FlyStream 1080p",
+      title: formatTitle({
+        name: "Homem-Aranha: Através do Aranhaverso (2023) [Dual 5.1] [WEB-DL]",
+        service: "🕷️ Dimensões em Choque",
+        audio: "Dual Audio",
+        flags: ["🇧🇷","🇺🇸"]
+      }),
+      url: "https://pixeldrain.com/api/file/SeABQN6Q"
+    }
+    ],
+
+// 2021 
+  // Homem Aranha: Sem volta para casa
+  "tt10872600": [
+    {
+      name: "FlyStream 1080p",
+      title: formatTitle({
+        name: "Homem Aranha: Sem Volta Para Casa (2021) [Dual] [Archive.org]",
+        service: "🕷️ O Passado Retorna",
+        audio: "Dual Audio",
+        flags: ["🇧🇷","🇺🇸"]
+      }),
+      url: "https://dn720401.ca.archive.org/0/items/homem-aranha-sem-volta-para-casa-1080p/Homem%20Aranha%20%28Sem%20Volta%20Para%20Casa%29%20%281080p%29.mp4"
+    }
+    ],
+
+// 2019
   // Lupin III: O Primeiro
   "tt10621032": [
       {
@@ -91,35 +166,6 @@ const streams = {
       }
   ],
 
-  
-  // Robô Selvagem
-  "tt29623480": [
-    {
-      name: "FlyStream 1080p",
-      title: formatTitle({
-        name: "Robô Selvagem (2024) [Dual 5.1] [WEB-DL]",
-        service: "🌱 Robô e Natureza",
-        audio: "Dual Audio",
-        flags: ["🇧🇷","🇺🇸"]
-      }),
-      url: "https://pixeldrain.com/api/file/nKoh96i3"
-    }
-    ],
-
-    // Homem Aranha: Sem volta para casa
-  "tt10872600": [
-    {
-      name: "FlyStream 1080p",
-      title: formatTitle({
-        name: "Homem Aranha: Sem Volta Para Casa (2021) [Dual] [Archive.org]",
-        service: "🕷️ O Passado Retorna",
-        audio: "Dual Audio",
-        flags: ["🇧🇷","🇺🇸"]
-      }),
-      url: "https://dn720401.ca.archive.org/0/items/homem-aranha-sem-volta-para-casa-1080p/Homem%20Aranha%20%28Sem%20Volta%20Para%20Casa%29%20%281080p%29.mp4"
-    }
-    ],
-
   // Homem Aranha: Longe de Casa
   "tt6320628": [
     {
@@ -134,20 +180,20 @@ const streams = {
     }
     ],
 
-  // Homem Aranha: De volta ao lar
-  "tt2250912": [
-    {
-      name: "FlyStream 1080p",
-      title: formatTitle({
-        name: "Homem-Aranha: De Volta ao Lar (2017) [Dual 5.1] [WEB-DL]",
-        service: "🕷️ Desafios do Lar",
-        audio: "Dual Audio",
-        flags: ["🇧🇷","🇺🇸"]
-      }),
-      url: "https://pixeldrain.com/api/file/s1YZmkja"
-    }
-    ],
+  "tt1646971": [
+  {
+    name: "FlyStream 720p",
+    title: formatTitle({
+      name: "Como Treinar o Seu Dragão 3 (2019) [Dublado] [BluRay] [Archive.org]",
+      service: "🐉 Dragões e Destinos",
+      audio: "Dual Audio",
+      flags: ["🇧🇷","🇺🇸"]
+    }),
+    url: "https://ia600901.us.archive.org/30/items/dragao/Como.Treinar.o.Seu.Drag%C3%A3o.3.2019.720p.BluRay.6CH.x264.DUAL-WWW.BLUDV.TV.mp4"
+  }
+  ],
 
+// 2018     
   // Homem Aranha: No Aranhaverso
   "tt4633694": [
     {
@@ -162,19 +208,50 @@ const streams = {
     }
     ],
 
-  // Homem Aranha: Através Aranhaverso
-  "tt9362722": [
+// 2017
+  // Homem Aranha: De volta ao lar
+  "tt2250912": [
     {
       name: "FlyStream 1080p",
       title: formatTitle({
-        name: "Homem-Aranha: Através do Aranhaverso (2023) [Dual 5.1] [WEB-DL]",
-        service: "🕷️ Dimensões em Choque",
+        name: "Homem-Aranha: De Volta ao Lar (2017) [Dual 5.1] [WEB-DL]",
+        service: "🕷️ Desafios do Lar",
         audio: "Dual Audio",
         flags: ["🇧🇷","🇺🇸"]
       }),
-      url: "https://pixeldrain.com/api/file/SeABQN6Q"
+      url: "https://pixeldrain.com/api/file/s1YZmkja"
     }
     ],
+
+// 2014
+  // Como Treinar o Seu Dragão 2
+  "tt1646971": [
+  {
+    name: "FlyStream 720p",
+    title: formatTitle({
+      name: "Como Treinar o Seu Dragão 2 (2014) [Dublado] [WEB-DL] [Archive.org]",
+      service: "🐉 Aventura e Descoberta",
+      audio: "Dual Audio",
+      flags: ["🇧🇷","🇺🇸"]
+    }),
+    url: "https://ia600901.us.archive.org/30/items/dragao/Como.Treinar.o.Seu.Drag%C3%A3o.2.2014.720p.WEB-DL.Dual-WOLVERDONFILMES.COM.mp4"
+  }
+  ],
+
+// 2010
+  // Como treinar o seu dragão
+  "tt0892769": [
+  {
+    name: "FlyStream 720p",
+    title: formatTitle({
+      name: "Como Treinar o Seu Dragão (2010) [Dublado] [Archive.org]",
+      service: "😧 Descobrindo o Dragão",
+      audio: "Audio",
+      flags: ["🇧🇷"]
+    }),
+    url: "https://ia800901.us.archive.org/30/items/dragao/como_treinar_o_seu_dragao_1.mp4"
+  }
+  ],
 
   // O Espetacular Homem Aranha animação - T1
   "tt0976192:1:1": [
@@ -513,60 +590,6 @@ const streams = {
       flags: ["🇧🇷"]
     }),
     url: "https://ia600604.us.archive.org/26/items/o-espetacular-homem-aranha-2008-2009/O%20Espetacular%20Homem-Aranha%20%282008-2009%29%2FTemporada%2002%20%282009%29%2F008%20Drama%2F026%20Ato%20Final%20%282009%29.ia.mp4"
-  }
-  ],
-
-  // Como treinar o seu dragão
-  "tt0892769": [
-  {
-    name: "FlyStream 720p",
-    title: formatTitle({
-      name: "Como Treinar o Seu Dragão (2010) [Dublado] [Archive.org]",
-      service: "😧 Descobrindo o Dragão",
-      audio: "Audio",
-      flags: ["🇧🇷"]
-    }),
-    url: "https://ia800901.us.archive.org/30/items/dragao/como_treinar_o_seu_dragao_1.mp4"
-  }
-  ],
-
-  "tt1646971": [
-  {
-    name: "FlyStream 720p",
-    title: formatTitle({
-      name: "Como Treinar o Seu Dragão 2 (2014) [Dublado] [WEB-DL] [Archive.org]",
-      service: "🐉 Aventura e Descoberta",
-      audio: "Dual Audio",
-      flags: ["🇧🇷","🇺🇸"]
-    }),
-    url: "https://ia600901.us.archive.org/30/items/dragao/Como.Treinar.o.Seu.Drag%C3%A3o.2.2014.720p.WEB-DL.Dual-WOLVERDONFILMES.COM.mp4"
-  }
-  ],
-
-  "tt1646971": [
-  {
-    name: "FlyStream 720p",
-    title: formatTitle({
-      name: "Como Treinar o Seu Dragão 3 (2019) [Dublado] [BluRay] [Archive.org]",
-      service: "🐉 Dragões e Destinos",
-      audio: "Dual Audio",
-      flags: ["🇧🇷","🇺🇸"]
-    }),
-    url: "https://ia600901.us.archive.org/30/items/dragao/Como.Treinar.o.Seu.Drag%C3%A3o.3.2019.720p.BluRay.6CH.x264.DUAL-WWW.BLUDV.TV.mp4"
-  }
-  ],
-
-  // Ghostbusters: apocalipse de gelo
-  "tt21235248": [
-  {
-    name: "FlyStream 1080p",
-    title: formatTitle({
-      name: "Ghostbusters: Apocalipse de Gelo (2024) [Dual] [WEB-DL]",
-      service: "🌨️ Apocalipse Gelado",
-      audio: "Dual Audio",
-      flags: ["🇧🇷","🇺🇸"]
-    }),
-    url: "https://pixeldrain.com/api/file/VCThRnB4"
   }
   ],
 }
