@@ -703,7 +703,7 @@ const streams = {
     name: "FlyStream 720p",
     title: formatTitle({
       name: "Round 6 (2021) [T01 EP09] [Triple] [WEB-DL]",
-      service: "🎫 Um dia de sorte,
+      service: "🎫 Um dia de sorte",
       audio: "Triple Audio",
       flags: ["🇧🇷","🇺🇸","🇰🇷"]
     }),
