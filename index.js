@@ -25,20 +25,6 @@ function formatTitle({ name, service, audio, flags }) {
 
 // Lista de streams organizados por ID
 const streams = {
-  // Serie: Supernatural
-  "tt0460681:1:1": [
-    {
-      name: "ReelTime 1080P",
-      title: formatTitle({
-        name: "Suupernatural: Temporada 1",
-        service: "Direct / 🎫 T01EP1",
-        audio: "Dual Áudio",
-        flags: ["🇧🇷","🇺🇸"]
-      }),
-      url: "https://www.terabox.com/api/streaming?path=%2FSPN%2F22.mkv&app_id=250528&clienttype=0&type=M3U8_FLV_264_480&vip=0"
-    }
-    ],
-
 // 2025
  // Superman
   "tt5950044": [
@@ -604,6 +590,33 @@ const streams = {
       flags: ["🇧🇷"]
     }),
     url: "https://ia600604.us.archive.org/26/items/o-espetacular-homem-aranha-2008-2009/O%20Espetacular%20Homem-Aranha%20%282008-2009%29%2FTemporada%2002%20%282009%29%2F008%20Drama%2F026%20Ato%20Final%20%282009%29.ia.mp4"
+  }
+  ],
+
+  // Round 6
+  "tt10919420:1:1": [
+  {
+    name: "FlyStream 720p",
+    title: formatTitle({
+      name: "Round 6 (2021) [T01 EP01] [Dual] [WEB-DL]",
+      service: "🎫 Batatinha frita 1, 2, 3",
+      audio: "Triple Audio",
+      flags: ["🇧🇷"]
+    }),
+    url: "https://pixeldrain.com/api/file/8KeKqPkm"
+  }
+  ],
+
+  "tt10919420:1:2": [
+  {
+    name: "FlyStream 720p",
+    title: formatTitle({
+      name: "Round 6 (2021) [T01 EP02] [Dual] [WEB-DL]",
+      service: "🎫 Inferno",
+      audio: "Triple Audio",
+      flags: ["🇧🇷"]
+    }),
+    url: "https://pixeldrain.com/api/file/R4hEKzgG"
   }
   ],
 }
