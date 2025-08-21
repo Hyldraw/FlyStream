@@ -629,7 +629,7 @@ const streams = {
       audio: "Triple Audio",
       flags: ["🇧🇷","🇺🇸","🇰🇷"]
     }),
-    url: "https://pixeldrain.com/api/file/5bMvcKW6"
+    url: "https://pixeldrain.com/api/file/iXyza3JR"
   }
   ],
 
@@ -642,7 +642,7 @@ const streams = {
       audio: "Triple Audio",
       flags: ["🇧🇷","🇺🇸","🇰🇷"]
     }),
-    url: "https://pixeldrain.com/api/file/5bMvcKW6"
+    url: "https://fv5-5.files.fm/thumb_video/sr5hrnh8gh.mp4?v=1755786421&PHPSESSID=c70cac2fa41f54fae889c6a72c00eb6556cd9512"
   }
   ],
 
@@ -655,7 +655,7 @@ const streams = {
       audio: "Triple Audio",
       flags: ["🇧🇷","🇺🇸","🇰🇷"]
     }),
-    url: "https://pixeldrain.com/api/file/5bMvcKW6"
+    url: "https://fv5-5.files.fm/thumb_video/sr5hrnh8gh.mp4?v=1755786421&PHPSESSID=c70cac2fa41f54fae889c6a72c00eb6556cd9512"
   }
   ],
 
@@ -668,7 +668,7 @@ const streams = {
       audio: "Triple Audio",
       flags: ["🇧🇷","🇺🇸","🇰🇷"]
     }),
-    url: "https://pixeldrain.com/api/file/5bMvcKW6"
+    url: "https://fv5-5.files.fm/thumb_video/sr5hrnh8gh.mp4?v=1755786421&PHPSESSID=c70cac2fa41f54fae889c6a72c00eb6556cd9512"
   }
   ],
 
@@ -681,7 +681,7 @@ const streams = {
       audio: "Triple Audio",
       flags: ["🇧🇷","🇺🇸","🇰🇷"]
     }),
-    url: "https://pixeldrain.com/api/file/5bMvcKW6"
+    url: "https://fv5-5.files.fm/thumb_video/sr5hrnh8gh.mp4?v=1755786421&PHPSESSID=c70cac2fa41f54fae889c6a72c00eb6556cd9512"
   }
   ],
 
@@ -694,7 +694,7 @@ const streams = {
       audio: "Triple Audio",
       flags: ["🇧🇷","🇺🇸","🇰🇷"]
     }),
-    url: "https://pixeldrain.com/api/file/5bMvcKW6"
+    url: "https://fv5-5.files.fm/thumb_video/sr5hrnh8gh.mp4?v=1755786421&PHPSESSID=c70cac2fa41f54fae889c6a72c00eb6556cd9512"
   }
   ],
 
@@ -707,7 +707,7 @@ const streams = {
       audio: "Triple Audio",
       flags: ["🇧🇷","🇺🇸","🇰🇷"]
     }),
-    url: "https://pixeldrain.com/api/file/5bMvcKW6"
+    url: "https://fv5-5.files.fm/thumb_video/sr5hrnh8gh.mp4?v=1755786421&PHPSESSID=c70cac2fa41f54fae889c6a72c00eb6556cd9512"
   }
   ],
 }
