@@ -598,10 +598,10 @@ const streams = {
   {
     name: "FlyStream 720p",
     title: formatTitle({
-      name: "Round 6 (2021) [T01 EP01] [Dual] [WEB-DL]",
+      name: "Round 6 (2021) [T01 EP01] [Triple] [WEB-DL]",
       service: "🎫 Batatinha frita 1, 2, 3",
       audio: "Triple Audio",
-      flags: ["🇧🇷"]
+      flags: ["🇧🇷","🇺🇸","🇰🇷"]
     }),
     url: "https://pixeldrain.com/api/file/8KeKqPkm"
   }
@@ -611,12 +611,25 @@ const streams = {
   {
     name: "FlyStream 720p",
     title: formatTitle({
-      name: "Round 6 (2021) [T01 EP02] [Dual] [WEB-DL]",
+      name: "Round 6 (2021) [T01 EP02] [Triple] [WEB-DL]",
       service: "🎫 Inferno",
+      audio: "Triple Audio",
+      flags: ["🇧🇷","🇺🇸","🇰🇷"]
+    }),
+    url: "https://pixeldrain.com/api/file/R4hEKzgG"
+  }
+  ],
+
+  "tt10919420:1:3": [
+  {
+    name: "FlyStream 720p",
+    title: formatTitle({
+      name: "Round 6 (2021) [T01 EP03] [Triple] [WEB-DL]",
+      service: "🎫 O homem do guarda-chuva",
       audio: "Triple Audio",
       flags: ["🇧🇷"]
     }),
-    url: "https://pixeldrain.com/api/file/R4hEKzgG"
+    url: "https://pixeldrain.com/api/file/5bMvcKW6"
   }
   ],
 }
