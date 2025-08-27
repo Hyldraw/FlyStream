@@ -642,7 +642,7 @@ const streams = {
       audio: "Triple Audio",
       flags: ["🇧🇷","🇺🇸","🇰🇷"]
     }),
-    url: "https://fv5-5.files.fm/thumb_video/sr5hrnh8gh.mp4?v=1755786421&PHPSESSID=c70cac2fa41f54fae889c6a72c00eb6556cd9512"
+    url: "https://cold-eu-agl-1.gofile.io/download/web/f659324a-bb60-41ff-a49c-b640bde85815/Indisponivel%20(3).mp4"
   }
   ],
 
@@ -655,7 +655,7 @@ const streams = {
       audio: "Triple Audio",
       flags: ["🇧🇷","🇺🇸","🇰🇷"]
     }),
-    url: "https://fv5-5.files.fm/thumb_video/sr5hrnh8gh.mp4?v=1755786421&PHPSESSID=c70cac2fa41f54fae889c6a72c00eb6556cd9512"
+    url: "https://cold-eu-agl-1.gofile.io/download/web/f659324a-bb60-41ff-a49c-b640bde85815/Indisponivel%20(3).mp4"
   }
   ],
 
@@ -668,7 +668,7 @@ const streams = {
       audio: "Triple Audio",
       flags: ["🇧🇷","🇺🇸","🇰🇷"]
     }),
-    url: "https://fv5-5.files.fm/thumb_video/sr5hrnh8gh.mp4?v=1755786421&PHPSESSID=c70cac2fa41f54fae889c6a72c00eb6556cd9512"
+    url: "https://cold-eu-agl-1.gofile.io/download/web/f659324a-bb60-41ff-a49c-b640bde85815/Indisponivel%20(3).mp4"
   }
   ],
 
@@ -681,7 +681,7 @@ const streams = {
       audio: "Triple Audio",
       flags: ["🇧🇷","🇺🇸","🇰🇷"]
     }),
-    url: "https://fv5-5.files.fm/thumb_video/sr5hrnh8gh.mp4?v=1755786421&PHPSESSID=c70cac2fa41f54fae889c6a72c00eb6556cd9512"
+    url: "https://cold-eu-agl-1.gofile.io/download/web/f659324a-bb60-41ff-a49c-b640bde85815/Indisponivel%20(3).mp4"
   }
   ],
 
@@ -694,7 +694,7 @@ const streams = {
       audio: "Triple Audio",
       flags: ["🇧🇷","🇺🇸","🇰🇷"]
     }),
-    url: "https://fv5-5.files.fm/thumb_video/sr5hrnh8gh.mp4?v=1755786421&PHPSESSID=c70cac2fa41f54fae889c6a72c00eb6556cd9512"
+    url: "https://cold-eu-agl-1.gofile.io/download/web/f659324a-bb60-41ff-a49c-b640bde85815/Indisponivel%20(3).mp4"
   }
   ],
 
@@ -707,7 +707,7 @@ const streams = {
       audio: "Triple Audio",
       flags: ["🇧🇷","🇺🇸","🇰🇷"]
     }),
-    url: "https://fv5-5.files.fm/thumb_video/sr5hrnh8gh.mp4?v=1755786421&PHPSESSID=c70cac2fa41f54fae889c6a72c00eb6556cd9512"
+    url: "https://cold-eu-agl-1.gofile.io/download/web/f659324a-bb60-41ff-a49c-b640bde85815/Indisponivel%20(3).mp4"
   }
   ],
 }
