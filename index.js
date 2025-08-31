@@ -642,7 +642,7 @@ const streams = {
       audio: "Triple Audio",
       flags: ["🇧🇷","🇺🇸","🇰🇷"]
     }),
-    url: "https://cold-eu-agl-1.gofile.io/download/web/f659324a-bb60-41ff-a49c-b640bde85815/Indisponivel%20(3).mp4"
+    url: "https://cdn-cf-east.streamable.com/video/mp4/9h0hmp.mp4?Expires=1756926710593&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=lCuBnlb70oUDSGUlVRL17TMRLiiSFiBVRNGkZrgbD0Vw4pXyt0KcI3mUJCs24sVcYeRvewsa6ikqj-Y-QtUa8wDkSDMPC4qYLnBT4FmPohbnqsHyrY8Aos-o~tfFv7HCU8cvPYq954agnSdIPpLyD3-vr0EqCrXn85wHkAlcJER~4nYBJYHkHjYeK4p5kduoDPr56xzLx1MMZAayB8z67DfDCEE2zcGyaOm2YhHgtYUm6ikDj1obBIslZk4MfJlVyj-Ugvxt9syoNmBFDpCum49FnqFtPtKQYQhY-kAWODLdTEXC4tQFgJWktWAFCTh7NrVDDeKxQhLdEYRDxuV3kw__"
   }
   ],
 
@@ -655,7 +655,7 @@ const streams = {
       audio: "Triple Audio",
       flags: ["🇧🇷","🇺🇸","🇰🇷"]
     }),
-    url: "https://cold-eu-agl-1.gofile.io/download/web/f659324a-bb60-41ff-a49c-b640bde85815/Indisponivel%20(3).mp4"
+    url: "https://cdn-cf-east.streamable.com/video/mp4/9h0hmp.mp4?Expires=1756926710593&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=lCuBnlb70oUDSGUlVRL17TMRLiiSFiBVRNGkZrgbD0Vw4pXyt0KcI3mUJCs24sVcYeRvewsa6ikqj-Y-QtUa8wDkSDMPC4qYLnBT4FmPohbnqsHyrY8Aos-o~tfFv7HCU8cvPYq954agnSdIPpLyD3-vr0EqCrXn85wHkAlcJER~4nYBJYHkHjYeK4p5kduoDPr56xzLx1MMZAayB8z67DfDCEE2zcGyaOm2YhHgtYUm6ikDj1obBIslZk4MfJlVyj-Ugvxt9syoNmBFDpCum49FnqFtPtKQYQhY-kAWODLdTEXC4tQFgJWktWAFCTh7NrVDDeKxQhLdEYRDxuV3kw__"
   }
   ],
 
@@ -668,7 +668,7 @@ const streams = {
       audio: "Triple Audio",
       flags: ["🇧🇷","🇺🇸","🇰🇷"]
     }),
-    url: "https://cold-eu-agl-1.gofile.io/download/web/f659324a-bb60-41ff-a49c-b640bde85815/Indisponivel%20(3).mp4"
+    url: "https://cdn-cf-east.streamable.com/video/mp4/9h0hmp.mp4?Expires=1756926710593&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=lCuBnlb70oUDSGUlVRL17TMRLiiSFiBVRNGkZrgbD0Vw4pXyt0KcI3mUJCs24sVcYeRvewsa6ikqj-Y-QtUa8wDkSDMPC4qYLnBT4FmPohbnqsHyrY8Aos-o~tfFv7HCU8cvPYq954agnSdIPpLyD3-vr0EqCrXn85wHkAlcJER~4nYBJYHkHjYeK4p5kduoDPr56xzLx1MMZAayB8z67DfDCEE2zcGyaOm2YhHgtYUm6ikDj1obBIslZk4MfJlVyj-Ugvxt9syoNmBFDpCum49FnqFtPtKQYQhY-kAWODLdTEXC4tQFgJWktWAFCTh7NrVDDeKxQhLdEYRDxuV3kw__"
   }
   ],
 
@@ -681,7 +681,7 @@ const streams = {
       audio: "Triple Audio",
       flags: ["🇧🇷","🇺🇸","🇰🇷"]
     }),
-    url: "https://cold-eu-agl-1.gofile.io/download/web/f659324a-bb60-41ff-a49c-b640bde85815/Indisponivel%20(3).mp4"
+    url: "https://cdn-cf-east.streamable.com/video/mp4/9h0hmp.mp4?Expires=1756926710593&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=lCuBnlb70oUDSGUlVRL17TMRLiiSFiBVRNGkZrgbD0Vw4pXyt0KcI3mUJCs24sVcYeRvewsa6ikqj-Y-QtUa8wDkSDMPC4qYLnBT4FmPohbnqsHyrY8Aos-o~tfFv7HCU8cvPYq954agnSdIPpLyD3-vr0EqCrXn85wHkAlcJER~4nYBJYHkHjYeK4p5kduoDPr56xzLx1MMZAayB8z67DfDCEE2zcGyaOm2YhHgtYUm6ikDj1obBIslZk4MfJlVyj-Ugvxt9syoNmBFDpCum49FnqFtPtKQYQhY-kAWODLdTEXC4tQFgJWktWAFCTh7NrVDDeKxQhLdEYRDxuV3kw__"
   }
   ],
 
@@ -694,7 +694,7 @@ const streams = {
       audio: "Triple Audio",
       flags: ["🇧🇷","🇺🇸","🇰🇷"]
     }),
-    url: "https://cold-eu-agl-1.gofile.io/download/web/f659324a-bb60-41ff-a49c-b640bde85815/Indisponivel%20(3).mp4"
+    url: "https://cdn-cf-east.streamable.com/video/mp4/9h0hmp.mp4?Expires=1756926710593&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=lCuBnlb70oUDSGUlVRL17TMRLiiSFiBVRNGkZrgbD0Vw4pXyt0KcI3mUJCs24sVcYeRvewsa6ikqj-Y-QtUa8wDkSDMPC4qYLnBT4FmPohbnqsHyrY8Aos-o~tfFv7HCU8cvPYq954agnSdIPpLyD3-vr0EqCrXn85wHkAlcJER~4nYBJYHkHjYeK4p5kduoDPr56xzLx1MMZAayB8z67DfDCEE2zcGyaOm2YhHgtYUm6ikDj1obBIslZk4MfJlVyj-Ugvxt9syoNmBFDpCum49FnqFtPtKQYQhY-kAWODLdTEXC4tQFgJWktWAFCTh7NrVDDeKxQhLdEYRDxuV3kw__"
   }
   ],
 
@@ -707,7 +707,7 @@ const streams = {
       audio: "Triple Audio",
       flags: ["🇧🇷","🇺🇸","🇰🇷"]
     }),
-    url: "https://cold-eu-agl-1.gofile.io/download/web/f659324a-bb60-41ff-a49c-b640bde85815/Indisponivel%20(3).mp4"
+    url: "https://cdn-cf-east.streamable.com/video/mp4/9h0hmp.mp4?Expires=1756926710593&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=lCuBnlb70oUDSGUlVRL17TMRLiiSFiBVRNGkZrgbD0Vw4pXyt0KcI3mUJCs24sVcYeRvewsa6ikqj-Y-QtUa8wDkSDMPC4qYLnBT4FmPohbnqsHyrY8Aos-o~tfFv7HCU8cvPYq954agnSdIPpLyD3-vr0EqCrXn85wHkAlcJER~4nYBJYHkHjYeK4p5kduoDPr56xzLx1MMZAayB8z67DfDCEE2zcGyaOm2YhHgtYUm6ikDj1obBIslZk4MfJlVyj-Ugvxt9syoNmBFDpCum49FnqFtPtKQYQhY-kAWODLdTEXC4tQFgJWktWAFCTh7NrVDDeKxQhLdEYRDxuV3kw__"
   }
   ],
 }
