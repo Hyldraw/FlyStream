@@ -4,7 +4,7 @@ const manifest = {
   id: "FlyStream.org",
   version: "1.0.0",
   name: "FlyStream",
-  description: "Filmes e séries com carregamento rápido, sem travamentos e com excelente qualidade de imagem e áudio. Experiência fluida para você assistir sem interrupções.",
+  description: "Filmes e séries com carregamento rápido, sem travamentos e com excelente qualidade de imagem e áudio. Não hospedamos nenhum conteúdo em nossos servidores. Nosso papel é apenas encontrar e organizar links públicos já disponíveis online.",
   logo: "https://i.imgur.com/YBExiFl.png",
   background: "https://i.imgur.com/hLl93U4.jpeg",
   resources: ["stream"],
